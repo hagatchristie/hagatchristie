@@ -5,21 +5,18 @@
 🎓 Estudante de Engenharia Ambiental e Sanitária  
 👩‍💻 Aluna da ONE (Oracle Next Education) pela Alura - Turma G9  
 
----
 
 ## 💻 Sobre mim
 - Amo aprender coisas novas, especialmente quando envolve tecnologia!
 - Consigo escrever códigos em **JavaScript**, **HTML** e **CSS** – principalmente para projetos simples, como jogos e desafios interativos.
 - Ferramentas que uso no dia a dia: **VSCode** e **Vercel**.
 
----
 
 ## 🚀 Projetos em destaque
 - [Challenge Amigo Secreto](https://github.com/hagatchristie/challenge-amigo-secreto_pt-main)
 - [Jogo do número secreto](https://github.com/hagatchristie/Jogo-numero-secreto_pt-origin)
 - E muitos aplicativos que ainda estão por vir! 😄
 
----
 
 ## 🎤 Um pouco mais sobre mim
 - 🎶 Apaixonada por cantar
@@ -27,12 +24,7 @@
 - 🍲 Amo experimentar comidas e sou apaixonada por comer!
 - 🎨 O artesanato é um hobby que me relaxa
 
----
 
-## 📫 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hagatchristiepereira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hagatchristiepereira)
-
----
-
-> _“Ainda vai piorar, mas depende de você para melhorar.”_
-````
+## 📫 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagatchristiepereira)
+[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:hagatchristie.business@gmail.com)
