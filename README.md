@@ -20,9 +20,15 @@
 ## 🚀 Projetos em destaque
 - [Challenge Amigo Secreto](https://github.com/hagatchristie/challenge-amigo-secreto_pt-main)
 - [Jogo do número secreto](https://github.com/hagatchristie/Jogo-numero-secreto_pt-origin)
-- E muitos aplicativos que ainda estão por vir! 😄
 
 
 ## 📫 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagatchristiepereira)
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:hagatchristie.business@gmail.com)
+
+#
+<div>
+<a href="https://github.com/hagatchristie">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagatchristie&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hagatchristie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
